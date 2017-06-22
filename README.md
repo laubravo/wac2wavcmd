@@ -54,5 +54,6 @@ format can be found in the comments in wac2wavcmd.c.  A Makefile is provided
 for convenience and should work on most Unix systems including Linux.
 
 We hope you find this useful!
+// to convert a file run the following command: cat name_of_file.wac | ./wac2wavcmd > name_of_file.wav
 
 ```
